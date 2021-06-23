@@ -1,6 +1,6 @@
 {
-  "short_name": "clean-ui-react-admin-template",
-  "name": "Clean UI React Admin Template",
+  "short_name": "react-admin-template",
+  "name": "React Admin Template",
   "icons": [],
   "start_url": "./index.html",
   "display": "standalone",
