@@ -1,0 +1,2 @@
+webpackJsonp([28],{1229:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n(0),a=n.n(r);t.default=function(){return a.a.createElement("img",{style:{width:"100%"},alt:"",src:"/resources/images/logo-menu-left-expand.png"})}}});
+//# sourceMappingURL=28.794dcc93.chunk.js.map
